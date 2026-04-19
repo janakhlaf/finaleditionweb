@@ -17,3 +17,4 @@ If FastAPI shows as not recognized, select the virtual environment manually:
 - Select: Python: Select Interpreter
 - Choose: backend/venv/Scripts/python.exe
 This ensures VS Code uses the correct environment.
+test rrrrrrrrrrrrrrrrmkfgmbknfk
